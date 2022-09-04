@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiigoziie
-- 👀 I’m interested in embedded systems engineering and front end web development.
+- 👀 I’m interested in embedded systems engineering and cloud computing.
 - 🌱 I’m currently learning arduino programming with C and C++, and Javascript.
-- 💞️ I’m looking to collaborate on Arduino projects and aesthetic Portfolio websites for creatives.
+- 💞️ I’m looking to collaborate on Arduino projects.
 - 📫 How to reach me: @Chigoziethegirl on Telegram and @chiigoziie_ on Instagram.
 - My e-mail is : chiigoziie@gmail.com
 
